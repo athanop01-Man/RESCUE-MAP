@@ -1,0 +1,8 @@
+{
+  "name": "E23WCM Tactical Map",
+  "description": "ระบบแผนที่ยุทธวิธีและกู้ภัยภาคสนามออนไลน์ Google Maps 5 ชั้นข้อมูล พร้อมปักหมุดเหตุฉุกเฉิน 8 หมวดหมู่ วาดเส้นวัดระยะ พิมพ์ข้อความไทย และส่งออกไฟล์ APK โดย E23WCM ช่างแมน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

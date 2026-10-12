@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E23WCM Tactical Map</string>
+    <string name="top_bar_title">ระบบแผนที่ยุทธวิธี Google Maps</string>
+    <string name="top_bar_subtitle">100% Google Maps Engine • E23WCM</string>
+    <string name="settings_button_desc">ตั้งค่าระบบและแผนที่</string>
+    <string name="settings_dialog_title">ตั้งค่าระบบและแผนที่</string>
+    <string name="developer_credit">E23WCM ช่างแมน</string>
+    <string name="developer_credit_full">ผู้พัฒนา: E23WCM ช่างแมน</string>
+    <string name="save_apk_title">บันทึกไฟล์ APK พร้อมดาวน์โหลด</string>
+    <string name="save_apk_desc">ส่งออกไฟล์ชุดติดตั้ง (.apk) ลงในเครื่องหรือแชร์ต่อทันที</string>
+    <string name="clear_tile_cache">ล้างแคชแผนที่ในหน่วยความจำ</string>
+    <string name="clear_drawings">ลบรูปวาดและเส้นวัดทั้งหมด</string>
+    <string name="clear_emergency_pins">ลบหมุดเหตุฉุกเฉินทั้งหมด</string>
+    <string name="open_in_google_maps">เปิดใน Google Maps</string>
+    <string name="pin_emergency">ปักหมุดเหตุฉุกเฉิน</string>
+    <string name="write_thai_text">พิมพ์ข้อความไทย</string>
+</resources>
